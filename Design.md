@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Design
+permalink: /Design/
 ---
 
 Creator: Adrian Bieri
